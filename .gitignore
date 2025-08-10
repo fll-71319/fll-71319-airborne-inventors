@@ -1,0 +1,42 @@
+# IDE and System Files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# PyBricks/Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pybricks-backup
+
+# SPIKE Prime / MINDSTORMS
+*.llsp
+*.lms
+*.ev3
+*.rbf
+
+# Build and Logs
+*.log
+*.tmp
+build/
+dist/
+
+# Sensitive Information
+secrets/
+private/
+*.key
+passwords.txt
+
+# Large Media Files (use Git LFS if needed)
+*.mp4
+*.mov
+*.avi
+videos/raw/
+
+# Personal Notes
+personal-notes/
+drafts/
