@@ -62,9 +62,11 @@ We demonstrate:
 - [PyBricks Programming](https://pybricks.com)
 
 ## 📞 Contact
-- **Head Coach:** [Name]
+- **Head Coach:** Allen Eubank
+  - Email: allen.e@mckinneysteamacademy.org
+  - Phone: [Contact via email]
 - **Assistant Coach:** [Name]
-- **Team Email:** [Email]
+- **Team Email:** allen.e@mckinneysteamacademy.org
 
 ## 🏅 Achievements
 - [Will be updated throughout the season]
