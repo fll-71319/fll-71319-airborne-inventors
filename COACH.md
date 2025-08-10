@@ -34,7 +34,3 @@
 - Focus on guiding rather than doing for the students
 - Document Core Values examples when observed
 - Share observations about individual student growth
-
----
-
-*For team use only. Please keep contact information confidential.*

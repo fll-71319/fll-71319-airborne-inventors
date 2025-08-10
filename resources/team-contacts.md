@@ -42,6 +42,3 @@ Room: [Room number]
 - [ ] [Student name] - Permission granted
 - [ ] [Student name] - No photos
 - [ ] [Update for each member]
-
----
-*This document contains private information. Do not share publicly.*
