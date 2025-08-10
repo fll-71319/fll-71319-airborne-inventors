@@ -36,7 +36,7 @@ Room: [Room number]
 ## Emergency Procedures
 1. **Medical Emergency:** Call 911, then notify parent
 2. **Weather Cancellation:** Email by [time]
-3. **Late Pickup:** Contact Allen Eubank at [Contact via email]
+3. **Late Pickup:** Contact school office or email coach
 
 ## Photo/Media Permissions
 - [ ] [Student name] - Permission granted

@@ -66,7 +66,6 @@ We demonstrate:
 ## 📞 Contact
 - **Head Coach:** Allen Eubank
   - Email: allen.e@mckinneysteamacademy.org
-  - Phone: [Contact via email]
 - **Assistant Coach:** [Name]
 - **Team Email:** allen.e@mckinneysteamacademy.org
 

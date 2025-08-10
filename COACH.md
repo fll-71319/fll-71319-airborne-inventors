@@ -3,7 +3,6 @@
 ## Head Coach
 **Allen Eubank**
 - **Email:** allen.e@mckinneysteamacademy.org
-- **Phone:** [Contact via email]
 - **School:** McKinney STEAM Academy
 - **Role:** Head Coach, FLL Team 71319 - Airborne Inventors General
 
@@ -21,7 +20,7 @@
 
 ## Communication Preferences
 - **Primary:** Email for official communications
-- **Urgent:** Phone/text for time-sensitive matters
+- **Urgent:** Contact via email or school office
 - **Team Updates:** [Platform to be determined]
 
 ## Support Needed
